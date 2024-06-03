@@ -23,6 +23,6 @@ To run this project locally, you need to have Python and the necessary libraries
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/adoptable-dogs-visualization.git
-2. cd adoptable-dogs-visualization
-3. pip install -r requirements.txt
-4. streamlit run app.py
+2. ```cd adoptable-dogs-visualization
+3. ```pip install -r requirements.txt
+4. ```streamlit run app.py
